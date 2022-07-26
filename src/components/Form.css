@@ -1,0 +1,29 @@
+.WeatherHeadingText {
+  font-size: 70px;
+  font-weight: 600;
+  padding-top: 7vh;
+  font-family: "Nunito";
+}
+
+.WeatherHeadingInput {
+  width: 20vw;
+  height: 5vh;
+  margin-right: 3vw;
+  border-radius: 30px;
+  border-color: black;
+  margin-top: 5vh;
+  font-size: 20px;
+  padding-left: 1vw;
+  font-family: "Nunito";
+}
+
+.WeatherHeadingButton {
+  background-color: indigo;
+  color: white;
+  font-size: 23px;
+  border-radius: 30px;
+  border: none;
+  width: 7vw;
+  height: 5vh;
+  font-family: "Nunito";
+}
